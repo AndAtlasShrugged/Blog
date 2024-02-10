@@ -106,7 +106,7 @@ analytics:
 author:
   name             : #"Your Name"
   avatar           : "/assets/Atlas.png"
-  bio              : #"I am an **amazing** person."
+  bio              : "And Atlas Shrugged ist ein Blog aus libertärer bis anarcho-kapitalistischer Sicht."
   location         : #"Somewhere"
   email            : #"and_atlas_shrugged_57@proton.me"
   links:
