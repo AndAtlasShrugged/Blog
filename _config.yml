@@ -108,11 +108,11 @@ author:
   avatar           : "/assets/Atlas.png"
   bio              : #"I am an **amazing** person."
   location         : #"Somewhere"
-  email            :
+  email            : #"and_atlas_shrugged_57@proton.me"
   links:
-    - label: #"Email"
+    - label: "Email 'And Atlas Shrugged'"
       icon: #"fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:and_atlas_shrugged_57@proton.me"
 
 # Site Footer
 footer:
